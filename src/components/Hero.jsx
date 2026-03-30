@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 
 export default function Hero() {
   return (
-    <div className="h-screen flex flex-col justify-center items-center text-center relative">
+    <div className="flex flex-col justify-center items-center text-center relative">
       <h1 className="text-5xl md:text-7xl font-bold bg-gradient-to-r from-gray-900 via-blue-500 to-purple-500 dark:from-gray-100 via-blue-400 to-purple-400 bg-clip-text text-transparent">
         Jay Maradiya
       </h1>
